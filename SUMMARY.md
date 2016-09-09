@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [第一章 · 一东（一）](1st.md)
 * [第二章 · 一东（二）](2nd.md)
 * [第三章 · 一东（三）](3rd.md)
