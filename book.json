@@ -1,3 +1,7 @@
 {
-    "plugins": ["-search"]
+    "plugins": [
+        "-search",
+        "autocover"
+    ],
+    "pluginsConfig": {}
 }
